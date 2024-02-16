@@ -96,7 +96,7 @@ py-cpuinfo==9.0.0
 pyarrow==11.0.0
 pycparser==2.21
 pydantic==1.10.9
-pyg-lib==0.2.0+pt20cu118
+# pyg-lib==0.2.0+pt20cu118
 pygments==2.15.1
 pyparsing==3.0.9
 pyre-extensions==0.0.29
@@ -132,14 +132,14 @@ tinycss2==1.2.1
 tokenizers==0.13.2
 toml==0.10.2
 tomli==2.0.1
-torch-cluster==1.6.1+pt20cu118
-torch-geometric==2.3.1
-torch-scatter==2.1.1+pt20cu118
-torch-sparse==0.6.17+pt20cu118
-torch-spline-conv==1.2.2+pt20cu118
+# torch-cluster==1.6.1+pt20cu118
+# torch-geometric==2.3.1
+# torch-scatter==2.1.1+pt20cu118
+# torch-sparse==0.6.17+pt20cu118
+# torch-spline-conv==1.2.2+pt20cu118
 torch==2.0.1
 torchmetrics==1.0.0
-torchvision==0.13.1a0
+torchvision==0.15.2
 tornado==6.2
 tqdm==4.65.0
 traitlets==5.7.1
